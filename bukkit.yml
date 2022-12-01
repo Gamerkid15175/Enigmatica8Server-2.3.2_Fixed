@@ -17,7 +17,7 @@ spawn-limits:
   water-underground-creature: 5
   ambient: 15
 chunk-gc:
-  period-in-ticks: 600
+  period-in-ticks: 500
 ticks-per:
   animal-spawns: 400
   monster-spawns: 1
