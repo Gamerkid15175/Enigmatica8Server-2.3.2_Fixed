@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "7a081d39f3be46eeb83e75331082e363"
+	name: "Gamerkid15175"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
